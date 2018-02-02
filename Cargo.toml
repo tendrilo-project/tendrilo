@@ -1,0 +1,6 @@
+[package]
+name = "tendrilo"
+version = "0.1.0"
+authors = ["kciryt <tyrick@gmail.com>"]
+
+[dependencies]
